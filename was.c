@@ -4,10 +4,9 @@
 void main()
 {
   char str[50];
-  int check=0; wrd=0, space=0, l=0, i=0, j=0, n=0, c[10];
-  clrscr();
+  int check=0, wrd=0, space=0, l=0, i=0, j=0, n=0, c[10];
   printf("Enter a Sentence\t");
-  gets(str);
+  scanf("%s",str);
   l=strlen(str);
   for(i=n; i<l; i++)
   {
@@ -39,5 +38,3 @@ void main()
   }
   getch();
 }
-      
-    
