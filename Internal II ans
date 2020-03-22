@@ -2,4 +2,10 @@
    dot operator(.)
    condition operator(?:)
 2. Compiler Error in line ” Derived *dp = new Base;”
-3. 
+3. If virtual keyword is not used the class may get two copies of data members from parent class.This can be resolved by using 'Virtual'.
+4. class class_name
+   {    
+   visibility mode: 
+         virtual void fun_name();  
+   };
+5. 
