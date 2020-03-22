@@ -1,4 +1,5 @@
 1. scope resolution operator (::)
    dot operator(.)
    condition operator(?:)
-2. 
+2. Compiler Error in line ” Derived *dp = new Base;”
+3. 
