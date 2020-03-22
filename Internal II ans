@@ -1,6 +1,8 @@
+                            PART-A
 1. scope resolution operator (::)
    dot operator(.)
    condition operator(?:)
+   member selection with pointers(.*)
 2. Compiler Error in line ” Derived *dp = new Base;”
 3. If virtual keyword is not used the class may get two copies of data members from parent class.This can be resolved by using 'Virtual'.
 4. class class_name
@@ -9,5 +11,5 @@
          virtual void fun_name();  
    };
 5. catch(…) is used to catch all types of exceptions arising in the program.
-6.
-
+                             PART-B
+6. 
