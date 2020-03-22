@@ -8,4 +8,6 @@
    visibility mode: 
          virtual void fun_name();  
    };
-5. 
+5. catch(…) is used to catch all types of exceptions arising in the program.
+6.
+
