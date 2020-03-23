@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 using namespace std;
-class bookshop
+class distance
 {
     public:
         float km,metre;
