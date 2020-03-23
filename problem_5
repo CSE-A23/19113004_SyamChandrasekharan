@@ -8,7 +8,7 @@ class bookshop
         float km,metre;
     float convert(float x)
     {
-        return x*1000;
+        return x/1000;
     }
     void rope(float q,float w)
     {
