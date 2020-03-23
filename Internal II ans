@@ -8,7 +8,7 @@
 4. class class_name
    {    
    visibility mode: 
-         virtual void fun_name();  
+         virtual void fun_name()=0;  
    };
 5. catch(…) is used to catch all types of exceptions arising in the program.
                              PART-B
