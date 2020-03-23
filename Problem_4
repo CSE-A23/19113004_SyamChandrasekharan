@@ -5,14 +5,14 @@ class construct {
 public: 
     int a, b; 
   
-    construct();
+    construct();// constructor
     
     construct(int x,int y)
     {
         cout<<"\nProduct is:"<<x*y;
     }
     
-    ~construct()
+    ~construct()//destructor
     {
         cout<<"\ndestroyed";
     }
@@ -27,7 +27,7 @@ int main()
 { 
     
     construct c; 
-    cout << "a: " << c.a << endl 
+    cout << "a: " << c.a << endl //access specifiers
          << "b: " << c.b; 
     construct(5,3);
     return 1; 
